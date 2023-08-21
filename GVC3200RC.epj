@@ -1,8 +1,8 @@
 {
   "header": {
-    "comment": "eric project file for project GVC3200RC.epj",
+    "comment": "eric project file for project GVC3200RC",
     "copyright": "Copyright (C) 2023 Guillermo Reisch, greisch@fenf.edu.uy",
-    "saved": "2023-08-21, 15:54:30"
+    "saved": "2023-08-21, 15:59:15"
   },
   "project": {
     "AUTHOR": "Guillermo Reisch",
@@ -74,7 +74,7 @@
     "RESOURCES": [],
     "SOURCES": [
       "__init__.py",
-      "control_remoto.py",
+      "GVC3200RemoteControl.py",
       "passwd.py"
     ],
     "SPELLEXCLUDES": "",
