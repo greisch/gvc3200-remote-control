@@ -19,3 +19,4 @@ venv/
 env/
 .env/
 passwd.py
+secret.py
