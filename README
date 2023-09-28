@@ -1,0 +1,32 @@
+1. INTRODUCTION
+
+gvc3200_remote_control is a program to control the PTZ of the gvc3200
+this program is release under BEER-WARE LICENCE read LICENSE for the details.
+
+
+2. QUICK START
+
+run:
+ python3 gvc3200_remote_control.py
+
+
+3. REQUIREMENTS
+
+Python 3
+PyQt6
+
+4. COMPILATION
+
+Python not needed
+
+5. SETUP
+
+Work in progress... in future...
+
+7. GETTING MORE INFORMATION
+
+send a email to the AUTHOR
+
+--
+Guillermo Reisch
+greisch@fenf.edu.uy
